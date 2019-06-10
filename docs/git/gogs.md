@@ -126,7 +126,7 @@ SECRET_KEY   = PelRoiGlDCKhyPG
  "gogs.abc.com", referrer: "http://gogs.abc.com/"
 ```
 
-好久没有找到答案，后来把app.ini删除，重新生成了一遍，结果ok了
+好久没有找到答案，后来把app.ini删除，重新生成了一遍，结果ok了，应该是安装完成后，修改此文件，ip地址修改的有些问题，本安装是通过docker安装，所使用的mysql库也是docker环境，所以会有些问题，如果真机直接安装，会少了很多问题。
 
 
 

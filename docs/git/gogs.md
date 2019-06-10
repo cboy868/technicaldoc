@@ -50,9 +50,6 @@ server{
 
     location / {
         proxy_pass   http://gogs;
-        proxy_set_header Host $host;
-        proxy_set_header X-Real_IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
     }
 }
 ```
@@ -61,6 +58,61 @@ server{
 #### 远端访问 gogs.abc.com
 
 至此gogs安装完成 
+
+#### gogs配置
+
+```
+APP_NAME = Gogs
+RUN_USER = git
+RUN_MODE = prod
+
+[database]
+DB_TYPE  = mysql
+HOST     = 内网ip:3306
+NAME     = gogs
+USER     = root
+PASSWD   = 123456
+SSL_MODE = disable
+PATH     = data/gogs.db
+
+[repository]
+ROOT = /data/git/gogs-repositories
+
+[server]
+DOMAIN           = http://gogs.abc.com
+HTTP_PORT        = 3000
+ROOT_URL         = http://gogs.abc.com:10800/
+DISABLE_SSH      = false
+SSH_PORT         = 10022
+START_SSH_SERVER = false
+OFFLINE_MODE     = false
+
+[mailer]
+ENABLED = false
+
+[service]
+REGISTER_EMAIL_CONFIRM = false
+ENABLE_NOTIFY_MAIL     = false
+DISABLE_REGISTRATION   = false
+ENABLE_CAPTCHA         = true
+REQUIRE_SIGNIN_VIEW    = false
+
+[picture]
+DISABLE_GRAVATAR        = false
+ENABLE_FEDERATED_AVATAR = false
+
+[session]
+PROVIDER = file
+
+[log]
+MODE      = file
+LEVEL     = Info
+ROOT_PATH = /app/gogs/log
+
+[security]
+INSTALL_LOCK = true
+SECRET_KEY   = PelRoiGlDCKhyPG
+```
 
 
 
@@ -73,7 +125,8 @@ server{
 2019/06/10 09:53:00 [error] 6#6: *1 recv() failed (104: Connection reset by peer) while reading response header from upstream, client: 1.119.196.210, server: gogs.abc.com, request: "GET /favicon.ico HTTP/1.1", upstream: "http://ip:10080/favicon.ico", host:
  "gogs.abc.com", referrer: "http://gogs.abc.com/"
 ```
- 
+
+好久没有找到答案，后来把app.ini删除，重新生成了一遍，结果ok了
 
 
 

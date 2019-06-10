@@ -29,18 +29,3 @@ $ chmod g+w power
 
 
 之后每次 push之后，power目录就会自动更新了
-
-
-三 Git常用命令示例
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/cboy868/test.git
-git push -u origin master
-
-
-
-
-git remote add origin https://github.com/cboy868/test.git
-git push -u origin master

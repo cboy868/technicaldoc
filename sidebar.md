@@ -17,6 +17,7 @@
 ## PHP(yii2)
 
 ## python
+1. [修改jupyter默认打开目录](#docs/python/jupyter_dir)
 
 ## Vue
 

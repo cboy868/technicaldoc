@@ -1,11 +1,12 @@
 # [技术日志整理]()
 
-作者：[wansq]
+作者：[wansq]  
 
 ## PHP(laravel)
 
 1. [前言](#README)
 1. [jwt-auth 安装](#docs/laravel/jwt-auth)
+1. [跨库事务](#docs/laravel/db)
 
 ## git
 

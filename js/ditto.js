@@ -42,7 +42,8 @@ var getHash = function (hash) {
   }
 };
 
-var disqusCode = '<h3>留言</h3><div id="disqus_thread"></div>';
+// var disqusCode = '<h3>留言</h3><div id="disqus_thread"></div>';
+var disqusCode = '<h3 style="color:#FFA500">寄语：以后任何形式的学习，都要过程中做好笔记，学完后做好总结，否则还不如休息、陪孩子玩一会</h3><div id="disqus_thread"></div>';
 var menu = new Array();
 
 function initialize() {

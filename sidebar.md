@@ -34,6 +34,7 @@
 1. [unit28](#docs/english/unit28)
 
 ## 其它
+1. [直言命题](#docs/other/zhiyan)
 
 
 

@@ -28,6 +28,9 @@
 1. [pass](#docs/english/pass)
 1. [001](#docs/english/001)
 1. [002](#docs/english/002)
+1. [003](#docs/english/003)
+1. [004](#docs/english/004)
+1. [005](#docs/english/005)
 
 ## 正康英语
 1. [unit01](#docs/english/unit01)

@@ -34,3 +34,30 @@ emperor 皇帝
 empire 帝国
 king 国王
 chinglish 中国式英
+warm spring 温泉
+国宝 national treasure 
+treasure n. 财产，财宝 v.珍惜重视
+underprivileged a.无特权的，贫困的
+under- 在...之下；少/没有
+over- 在...之上；多，超过
+privilege n.特权 
+estimate v.估计
+rate v.评估
+value n.价值，价值观；life values；v.估值估价；珍惜重视
+高估：overestimate overrate overvalue
+低估：underestimate underrate undervalue
+graduate n.毕业生；研究生
+undergraduate n.本科生,大学在校生
+postgraduate n.研究生
+degree n.程度；学位
+Bachelor n.学士学位
+bachelor 光棍单身汉
+Master 硕士
+master n.师傅 v.掌握
+Doctor 博士 = Dr.
+postdoctor 博士后
+doctor 医生
+Peking 北京
+Tsinghua 清华
+Kungfu 功夫
+innovation 创新

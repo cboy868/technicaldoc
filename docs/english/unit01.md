@@ -3,16 +3,16 @@
 account n.账目，账户；叙述说明；vi.报账，解释；(在数量、比例方面)占；vt.认为，把...视作，account for 说明，解释；占，占据，take ... into account 考虑，顾及。  
 accountant n.会计  
 accounting n.会计，会计学  
-achieve v.完成，实现；达到，获得  
+achieve v.完成，实现；达到，获得    (通过努力)
 achievement n. 成就，成绩；完成，实现  
 achievable a.做得成的，可完成的，可有成就的  
-attain v.实现，达到，获得  
+attain v.实现，达到，获得  (很长时间，年龄，股份等)
 attainable a. 可达到的，可得到的  
 attainment n.成就，造诣，达到  
-accomplish vt.完成，实现 ,accomplish nothing 一事无成  
+accomplish vt.完成，实现 ,accomplish nothing 一事无成  (通过努力)
 accomplished a.有成就的，有造诣的，熟练的，完成的；  
 accomplishment n 成就，完成   
-fulfill vt.完成，履行；达到实现  
+fulfill vt.完成，履行；达到实现  fulfill oneselfv. 完全实现自己的抱负
 fulfillment n.完成，实现，满足；  
 fulfilling a.使人满足的，令人满意的  
 gain v.获得；增加；受益；n.收益，收获；增加 gain from 从...获益  

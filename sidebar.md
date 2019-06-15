@@ -33,6 +33,9 @@
 1. [005](#docs/english/005)
 
 ## 正康英语
+1. [video01](#docs/english/video01)
+
+
 1. [unit01](#docs/english/unit01)
 1. [unit28](#docs/english/unit28)
 

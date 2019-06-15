@@ -79,6 +79,27 @@ effectiveness n.有效性
 influence n.影响；势力，权势；vt.影响，感化 have an invluence on 对...产生影响  
 influential a.有影响的，有权势的 n.有影响的人  
 
+agent n.代理商(人),代表；动力，动因，起因，因素；特工  
+agency n.代理处，代办处；机构 travel agency; news agency 通讯社  
+represent vt.代表象征；体现，反映  
+representative n.代表，代理；典型 a.典型的，有代表性的 represent 代表 + ative (...的)  
+representation n.陈述，表现  
+delegate n.代表；vt.委派，委派...为代表，授权  
+delegation n.代表团，委派 delegate sb.to do sth. 委派某人做某事  
+deputy n.代理人，代表；副手副职；a.代理的，副的  
+depute v.委托，委派；deputation n.代表团  
+amount n.数量，总量，总额；vi(to)合计，总共达，等于 amount to  
+sum n.总数，和；金额；v.合计，总计；概括，归纳 sum up 总结，概括  
+quantity n.量，数量；大量  
+quantitative a.数量的；定量的 a large quantity of 大量的 quantitative analysis 定量分析  
+approach v.靠近，接近，达到；探讨，交流；处理；n.方法，途径  
+approachable a.可接近的 approach to 接近于，约等于  
+approximate a.近似的，大约的；v.近似，大约 approximate to 接近，近似，约计  
+manner n.方式，方法；态度，举止；风度，礼貌 in the manner of 以...的方式 after the manner of 仿效，学...的样子 He is easy in conversation and graceful in manner.  
+
+
+
+
 
 
 

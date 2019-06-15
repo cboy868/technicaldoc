@@ -1,4 +1,4 @@
-# Gogs安装
+# docker安装Gogs 
 
 #### 创建目录
 ```
@@ -81,7 +81,7 @@ ROOT = /data/git/gogs-repositories
 [server]
 DOMAIN           = http://gogs.abc.com
 HTTP_PORT        = 3000
-ROOT_URL         = http://gogs.abc.com:10800/
+ROOT_URL         = http://gogs.abc.com:80/
 DISABLE_SSH      = false
 SSH_PORT         = 10022
 START_SSH_SERVER = false

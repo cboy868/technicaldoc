@@ -25,6 +25,7 @@
 ## docker
 
 ## English
+1. [测试](#docs/english/test)
 1. [pass](#docs/english/pass)
 1. [001](#docs/english/001)
 1. [002](#docs/english/002)

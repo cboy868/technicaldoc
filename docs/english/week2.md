@@ -1,6 +1,5 @@
-# 004
+# week2
 chamber	n. 房间,会所,室 vt. 装入室中(枪膛) adj. 室内演奏的  
-
 marvelous	adj. 令人惊异的,了不起的,不平常的  
 commit	v. 委托(托付), 犯罪, 作...事, 承诺 [计算机] 委托  
 shed	n. 车棚,小屋,脱落物 vt. 使...流出,散发,脱落,除掉  
@@ -45,7 +44,6 @@ field	n. 领域；牧场；旷野；战场；运动场 vi. 担任场外队员 ad
 boss	n. 老板, 上司 v. 指挥, 控制  
 segment	n. 部分 v. 部分,段,分割 vt. 分割  
 rejoice	v. 使...欢喜, 高兴  
-
 nickel	n. 镍, 镍币, 五分镍币 vt. 镀镍于  
 nourish	v. 滋养, 使...健壮, 怀有  
 carriage	n. 四轮马车,车厢  
@@ -53,7 +51,6 @@ generalize	v. 使一般化, 概括，归纳
 semiconductor	n. 半导体  
 heal	vt. 痊愈,恢复,和解 vi. 痊愈  
 variation	n. 变化,变动,变种,变奏曲  
-
 skillful	adj. 熟练的，灵巧的  
 sculpture	n. 雕塑 vt. 雕刻,雕塑 vi. 当雕刻师  
 humor	n. 幽默,诙谐,心情 v. 迎合,牵就,顺应  
@@ -81,27 +78,16 @@ reach	n. 延伸,范围,河段 vt. 到达,伸出,延伸,取得联系 vi. 延伸
 fountain	n. 喷泉,源泉,储水容器,泉水 vt.& vi. 使像喷泉一样流  
 retrospect	n.回顾，回想 vt.&vi.回顾； 追溯  
 emergency	adj. 紧急的 n. 紧急情况,突发事件  
-
-
-#### pass
-example	n. 榜样,例子 vt. 把...作为例子  
-someone	pron. 某人, 有人  
-plan	n. 计划,策略,方法 vt. 计划,设计,打算 vi. 打算  
-holiday	n. 假期,假日 vi. 度假  
-pencil	n. 铅笔 v. 用铅笔写  
-shape	n. 形状,形式,定形,身材 vt. 定形,使...成形,塑造  
-busy	adj. 忙的,杂乱的 vt. 使忙于 vi. 忙  
-surround	n. 环绕物 vt. 包围,环绕  
-article	n. 文章,物品,条款,冠词 vt. 定契约  
-clock	n. 时钟, 计时器  
-clean	adj. 干净的, 正当的, 纯洁的, 完全的, 精准的, 空的 adv. 完全地 n. 清洁 vt. &vi. 打扫,清扫  
-life	n. 生活, 生命, 人生, 生物, 寿命,灵魂, 无期(徒刑) adj. 活的,终身的,生动的  
-strong	adj. 强壮的, 牢固的, 坚定的, 坚强的, 强烈的, 浓的  
-hard	adj. 坚硬的;艰难的,苛刻的 adv. 努力地,猛烈地,坚定地  
-waiter	n. 侍者,(男)服务员 n. 托盘  
-
-#### 615
-onto	prep. 到...上  
-anyhow	adv. 无论如何,不管怎样  
-telegram	n. 电报 vt 用电报发送(打电报)  
-odd	adj. 奇数的,古怪的,剩余的 . 奇数  
+sit	vt. 坐,担任,开会,孵 vi. 坐,孵 n. 坐
+mild	adj. (烟、酒)味淡的,轻微的,温柔的,文雅的
+trouble	n. 困扰,麻烦,困难,故障 vt.& vi. 困扰,麻烦
+faith	n. 信任,信仰
+quote	n. 引用 v. 引述, 举证, 报价
+vacant	adj. 空的,空虚的,木然的
+mob	n. 暴民, 民众, 暴徒 v. 大举包围, 乱挤, 围攻
+reference	n. 参考, 出处, 参照 n. 推荐人, 推荐函 vt. 提供参考
+devote	vt. 投入于,献身
+symptom	n. 症状, 征兆
+journal	n. 日记, 杂志, 日报
+global	adj. 全球性的, 全局的
+radar	n. 雷达

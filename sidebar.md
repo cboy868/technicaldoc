@@ -26,19 +26,18 @@
 
 ## English
 1. [测试](#docs/english/test)
-1. [pass](#docs/english/pass)
-1. [001](#docs/english/001)
-1. [002](#docs/english/002)
-1. [003](#docs/english/003)
-1. [004](#docs/english/004)
-1. [005](#docs/english/005)
+1. [第一周](#docs/english/week1)
+1. [第二周](#docs/english/week2)
+
 
 ## 正康英语
 1. [video01](#docs/english/video01)
-
-
 1. [unit01](#docs/english/unit01)
 1. [unit28](#docs/english/unit28)
+
+## pass
+1. [001](#docs/english/001)
+
 
 ## 其它
 1. [直言命题](#docs/other/zhiyan)

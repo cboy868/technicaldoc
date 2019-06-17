@@ -1,22 +1,26 @@
 # week1
+
+## pass
+spin	n. 旋转, 疾驰 v. 纺织, 旋转, 拉长   
+rebellion	n. 谋反, 叛乱, 反抗  
+commodity	n. 商品, 日用品  commodity code 商品编码
+realm	n. 王国,领域  
+lid	n. 盖 v.给...盖盖子  
+spoil	n. 战利品, 奖品 v. 宠坏, 溺爱, 破坏, 腐坏  
+invisible	adj. 看不见的,无形的 n. 隐形人(或物品)  
 ## 1
+
+
 thrive	vi. 兴旺,繁荣  
 prime	adj. 最初的,首要的,最好的，典型的 n. 青春,壮年,全盛时期 vt. 事先指点,在（金属、木材等上）打底漆 vi. 变得首要  
-rebellion	n. 谋反, 叛乱, 反抗  
-spin	n. 旋转, 疾驰 v. 纺织, 旋转, 拉长   
 tough	adj. 强硬的, 艰苦的, 棘手的, 严厉的 adv. 以强硬的态度 n. 暴徒; 恶棍  
 miracle	n. 奇迹  
-commodity	n. 商品, 日用品  
-realm	n. 王国,领域  
 compulsory	adj. 被强制的,强迫的,义务的  
-lid	n. 盖 v.给...盖盖子
 ethnic	adj. 民族的，种族的，有民族特色的 n. 少数民族的一员  
 stall	n. 货摊, 托辞, (教堂内）唱诗班和牧师的座位, 熄火 vt. 使...陷于泥中, 使停止 vi. 陷入泥中, 发生障碍  
 reciprocal	adj. 相互的,互惠的,互补的 n. 相互, 互惠 [数］ 倒数  
 recognition	n. 认出,承认, 感知，知识  
-damn	vt. 谴责，该死 vi. 诅咒,下地狱 n. 诅咒 adj. 该死的，可恶的 adv. 非常  
-spoil	n. 战利品, 奖品 v. 宠坏, 溺爱, 破坏, 腐坏  
-invisible	adj. 看不见的,无形的 n. 隐形人(或物品)  
+damn vt. 谴责，该死 vi. 诅咒,下地狱 n. 诅咒 adj. 该死的，可恶的 adv. 非常  
 promote	vt. 促进, 提升, 升迁; 发起; 促销  
 lure	n. 饵,诱惑 vt. 引诱,诱惑  
 valid	adj. 有确实根据的; 有效的; 正当的, 合法的  
@@ -34,6 +38,7 @@ meditate	v. 想, 考虑, 计划
 favor	[美]n. 好意,喜爱,偏爱,特权 vt. 给予,关心,偏爱,支持,利于,长得像  
 proficiency	n. 熟练,精通  
 flation 物价稳定；平稳时期；通货稳定时期  
+experience n.经历，经验，体验
 
 ## 2
 inflation	n. 膨胀,通货膨胀  

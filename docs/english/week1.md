@@ -8,6 +8,16 @@ realm	n. 王国,领域
 lid	n. 盖 v.给...盖盖子  
 spoil	n. 战利品, 奖品 v. 宠坏, 溺爱, 破坏, 腐坏  
 invisible	adj. 看不见的,无形的 n. 隐形人(或物品)  
+valid	adj. 有确实根据的; 有效的; 正当的, 合法的  
+promote	vt. 促进, 提升, 升迁; 发起; 促销  
+recognition	n. 认出,承认, 感知，知识  
+dynamic	adj. 动态的, (有)动力的, (有)力的; 有活力的 n. 动力; 力学  
+choke	vi. 窒息,阻塞 vt. (掐住或阻塞气管)使(某人)停止呼吸, 塞满 n. 窒息, 阻风门开关, 阻塞  
+flat n. 平地；公寓；平面 adj. 平的；单调的；不景气的；干脆的；平坦的；扁平的；浅的 vi. 逐渐变平；[音乐]以降调唱（或奏） vt. 使变平；[音乐]使（音调）下降，尤指降半音 adv. （尤指贴着另一表面）平直地；断然地；水平地；直接地，完全地  
+flation 物价稳定；平稳时期；通货稳定时期  
+inflation	n. 膨胀,通货膨胀  
+editorial	n. 社论 adj. 编辑的  
+pork	n. 猪肉 联邦或州政府用以笼络人心的工程或款项  
 ## 1
 
 
@@ -19,12 +29,8 @@ compulsory	adj. 被强制的,强迫的,义务的
 ethnic	adj. 民族的，种族的，有民族特色的 n. 少数民族的一员  
 stall	n. 货摊, 托辞, (教堂内）唱诗班和牧师的座位, 熄火 vt. 使...陷于泥中, 使停止 vi. 陷入泥中, 发生障碍  
 reciprocal	adj. 相互的,互惠的,互补的 n. 相互, 互惠 [数］ 倒数  
-recognition	n. 认出,承认, 感知，知识  
 damn vt. 谴责，该死 vi. 诅咒,下地狱 n. 诅咒 adj. 该死的，可恶的 adv. 非常  
-promote	vt. 促进, 提升, 升迁; 发起; 促销  
 lure	n. 饵,诱惑 vt. 引诱,诱惑  
-valid	adj. 有确实根据的; 有效的; 正当的, 合法的  
-dynamic	adj. 动态的, (有)动力的, (有)力的; 有活力的 n. 动力; 力学  
 formulate	vt. 规划；用公式表示；明确地表达  
 pure	adj. 纯的, 纯洁的, 纯理论的, 抽象的, 完全的  
 snatch	n. 抢夺,碎片,一阵,一瞬间,一点点 vt. &vi. 夺取,抢劫,抓住  
@@ -33,16 +39,14 @@ classic	n. 古典作品,杰作,第一流艺术家 adj. 第一流的,最优秀的
 cream	n.乳霜； 精英； 奶油色； 乳脂，奶油 vt.把…搅成糊状（或奶油状）混合物； 彻底打败，狠揍  
 federate adj. 同盟的；联邦制度下的；联合的 v. 结成同盟，结成联邦  
 federation	n. 联邦, 联合, 联盟  
-choke	vi. 窒息,阻塞 vt. (掐住或阻塞气管)使(某人)停止呼吸, 塞满 n. 窒息, 阻风门开关, 阻塞  
 meditate	v. 想, 考虑, 计划  
 favor	[美]n. 好意,喜爱,偏爱,特权 vt. 给予,关心,偏爱,支持,利于,长得像  
 proficiency	n. 熟练,精通  
-flation 物价稳定；平稳时期；通货稳定时期  
-experience n.经历，经验，体验
+experience n.经历，经验，体验  
 
 ## 2
-inflation	n. 膨胀,通货膨胀  
-editorial	n. 社论 adj. 编辑的  
+
+
 comprise	vt. 包含,构成  
 scandal	n. 丑闻,中伤,反感,耻辱  
 abolish	vt. 废止,革除  
@@ -68,7 +72,6 @@ pursue	v. 追捕, 追求, 继续从事
 rigorous	adj. 严厉的,严酷的,严格的,细致的  
 dispute	n. 争论; 争吵 vi. 争论, 争执 vt. 争论; 质疑; 争夺; 抵抗  
 indifferent	adj. 漠不关心的, 无重要性的, 中立的  
-pork	n. 猪肉 联邦或州政府用以笼络人心的工程或款项  
 aluminum	n. 铝  
 accidental	adj. 意外的,偶然的,附属的 n. 偶然,不重要的东西,变调的临时符号  
 glove	n. 手套 vt. 给...戴手套  

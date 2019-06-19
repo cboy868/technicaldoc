@@ -18,41 +18,71 @@ flation 物价稳定；平稳时期；通货稳定时期
 inflation	n. 膨胀,通货膨胀  
 editorial	n. 社论 adj. 编辑的  
 pork	n. 猪肉 联邦或州政府用以笼络人心的工程或款项  
+meet	n. 集会,比赛, 运动会 adj. 适宜的,合适的 vt. 遇见,引见,经历,结识,对付,满足,支付 vi. 相遇,集合,交锋,相交  
+ham	n. 火腿,后腿,股部和臀部,拙劣的表演者,业余无线电台的操作者 vt. &vi. 表演过火,做戏  
+minus	adj. 负的,减的 n. 减号,负数,缺点 prep. 减去  
+Christ	n. 基督，救世主 int. 天啊!  
+parasite	n. 寄生虫,寄生生物，食客  
+barn	n. 谷仓, 牲口棚  
+east	adj. 东方的 adv. 向东方 n. 东, 东方  
+gene n.基因 遗传因子  
+genetic	adj. 基因的, 遗传的, 起源的   
+weigh	vt. 权衡；考虑；称…重量 vi. 重量为…；具有重要性；成为…的重荷；起锚 n. 权衡；称重量  
+abnormal	adj. 反常的,不正常的,不规则的 n. 不正常的人  
+edible	n. 食品, 食物 adj. 可食用的  
+wrinkle	n. 皱纹 v. (使)起皱纹 vi. (使)起皱纹,皱眉 vt. 使起皱纹  
+mostly	adv. 大概, 大部份, 主要  
+procession	n.队伍，行列； 一列，一排； 列队行进  
+apparent	adj. 显然的；表面上的；似乎真实的  
+mood	n. 心情, 情绪, 语气  
+lung	n. 肺,呼吸器官  
+insist	vt. 坚持,强调 vi. 坚决主张  
+jargon	n. 行话 vi. 说行话  
+deduct	vt. 扣除，减去  
+cop	n. 警察 vt. 采用,抓住  
+patient	adj. 有耐心的, 能忍耐的 n. 病人  
+dictionary	n. 词典, 字典, 辞典  
+stall	n. 货摊, 托辞, (教堂内）唱诗班和牧师的座位, 熄火 vt. 使...陷于泥中, 使停止 vi. 陷入泥中, 发生障碍  
+pure	adj. 纯的, 纯洁的, 纯理论的, 抽象的, 完全的  
+snatch	n. 抢夺,碎片,一阵,一瞬间,一点点 vt. &vi. 夺取,抢劫,抓住  
+biography	n. 传记  
+classic	n. 古典作品,杰作,第一流艺术家 adj. 第一流的,最优秀的,古典的  
+federate adj. 同盟的；联邦制度下的；联合的 v. 结成同盟，结成联邦  
+federation	n. 联邦, 联合, 联盟  
+favor	[美]n. 好意,喜爱,偏爱,特权 vt. 给予,关心,偏爱,支持,利于,长得像  
+ethnic	adj. 民族的，种族的，有民族特色的 n. 少数民族的一员  
+abolish	vt. 废止,革除  
+bonus	n. 红利, 奖金  
+blade	n. 刀锋, 刀口  
+stroke	n. 中风；冲程；笔画；打击；尝试；轻抚 vt. 抚摸；敲击；划尾桨；划掉 vi. 击球；作尾桨手；敲击键盘  
+tough	adj. 强硬的, 艰苦的, 棘手的, 严厉的 adv. 以强硬的态度 n. 暴徒; 恶棍  
+indifferent	adj. 漠不关心的, 无重要性的, 中立的  
+dispute	n. 争论; 争吵 vi. 争论, 争执 vt. 争论; 质疑; 争夺; 抵抗  
+aluminum	n. 铝  
+
 ## 1
 
 
 thrive	vi. 兴旺,繁荣  
 prime	adj. 最初的,首要的,最好的，典型的 n. 青春,壮年,全盛时期 vt. 事先指点,在（金属、木材等上）打底漆 vi. 变得首要  
-tough	adj. 强硬的, 艰苦的, 棘手的, 严厉的 adv. 以强硬的态度 n. 暴徒; 恶棍  
 miracle	n. 奇迹  
 compulsory	adj. 被强制的,强迫的,义务的  
-ethnic	adj. 民族的，种族的，有民族特色的 n. 少数民族的一员  
-stall	n. 货摊, 托辞, (教堂内）唱诗班和牧师的座位, 熄火 vt. 使...陷于泥中, 使停止 vi. 陷入泥中, 发生障碍  
 reciprocal	adj. 相互的,互惠的,互补的 n. 相互, 互惠 [数］ 倒数  
 damn vt. 谴责，该死 vi. 诅咒,下地狱 n. 诅咒 adj. 该死的，可恶的 adv. 非常  
 lure	n. 饵,诱惑 vt. 引诱,诱惑  
 formulate	vt. 规划；用公式表示；明确地表达  
-pure	adj. 纯的, 纯洁的, 纯理论的, 抽象的, 完全的  
-snatch	n. 抢夺,碎片,一阵,一瞬间,一点点 vt. &vi. 夺取,抢劫,抓住  
-biography	n. 传记  
-classic	n. 古典作品,杰作,第一流艺术家 adj. 第一流的,最优秀的,古典的  
 cream	n.乳霜； 精英； 奶油色； 乳脂，奶油 vt.把…搅成糊状（或奶油状）混合物； 彻底打败，狠揍  
-federate adj. 同盟的；联邦制度下的；联合的 v. 结成同盟，结成联邦  
-federation	n. 联邦, 联合, 联盟  
 meditate	v. 想, 考虑, 计划  
-favor	[美]n. 好意,喜爱,偏爱,特权 vt. 给予,关心,偏爱,支持,利于,长得像  
 proficiency	n. 熟练,精通  
 experience n.经历，经验，体验  
+
 
 ## 2
 
 
 comprise	vt. 包含,构成  
 scandal	n. 丑闻,中伤,反感,耻辱  
-abolish	vt. 废止,革除  
 reclaim	v. 开垦, 纠正, 收回  
-bonus	n. 红利, 奖金  
-blade	n. 刀锋, 刀口  
 slam	n. 砰然声,猛然,猛烈的抨击 vt. 猛然关上,砰地关上,猛烈抨击 vi. 砰地关上,猛攻,猛烈抨击  
 stab	n. 刺,戳,刺伤的伤口,剧痛,尝试 vt. 刺伤,中伤 vi. 刺,扎  
 technician	n. 技术员,技师  
@@ -70,9 +100,6 @@ pool	n. 水塘(池),游泳池,撞球 vi. 形成池塘 vt. 集中,积累
 conclusion	n. 结论  
 pursue	v. 追捕, 追求, 继续从事  
 rigorous	adj. 严厉的,严酷的,严格的,细致的  
-dispute	n. 争论; 争吵 vi. 争论, 争执 vt. 争论; 质疑; 争夺; 抵抗  
-indifferent	adj. 漠不关心的, 无重要性的, 中立的  
-aluminum	n. 铝  
 accidental	adj. 意外的,偶然的,附属的 n. 偶然,不重要的东西,变调的临时符号  
 glove	n. 手套 vt. 给...戴手套  
 expectation	n. 期待,期望 v. 期待,前程 
@@ -81,42 +108,19 @@ grim	adj. 冷酷的；糟糕的；残忍的
 fuss	n. 大惊小怪,小题大作,强烈不满或争吵 vi. 无事自扰,焦急,对小事激动 vt. 扰乱,使焦躁  
 
 ## 3
-deduct	vt. 扣除，减去  
+
 revelation	n. 揭露,泄露,发觉  
-gene n.基因 遗传因子  
-genetic	adj. 基因的, 遗传的, 起源的   
-weigh	vt. 权衡；考虑；称…重量 vi. 重量为…；具有重要性；成为…的重荷；起锚 n. 权衡；称重量  
-abnormal	adj. 反常的,不正常的,不规则的 n. 不正常的人  
-edible	n. 食品, 食物 adj. 可食用的  
-cop	n. 管纱,警察 vt. 采用,抓住  
 brace	n. 支柱,曲柄,大括号 vt. 绷紧,顶住,（为困难或坏事）做准备,使更为坚固 vi. 振作精神,做好准备  
-meet	n. 集会,比赛, 运动会 adj. 适宜的,合适的 vt. 遇见,引见,经历,结识,对付,满足,支付 vi. 相遇,集合,交锋,相交  
-ham	n. 火腿,后腿,股部和臀部,拙劣的表演者,业余无线电台的操作者 vt. &vi. 表演过火,做戏  
-minus	adj. 负的,减的 n. 减号,负数,缺点 prep. 减去  
-Christ	n. 基督，救世主 int. 天啊!  
-parasite	n. 寄生虫,寄生生物，食客  
 outset	n. 开始, 开端  
 shaft	n. 轴，杆状物，井状通道；井穴 vt. 亏待；苛待；欺骗  
 cricket	n. 板球,蟋蟀 vi. 打板球  
 consensus	n. 共识，一致，合意 n. [生理]交感  
-stroke	n. 中风；冲程；笔画；打击；尝试；轻抚 vt. 抚摸；敲击；划尾桨；划掉 vi. 击球；作尾桨手；敲击键盘  
-barn	n. 谷仓, 牲口棚  
-east	adj. 东方的 adv. 向东方 n. 东, 东方  
-wrinkle	n. 皱纹 v. (使)起皱纹 vi. (使)起皱纹,皱眉 vt. 使起皱纹  
-jargon	n. 行话 vi. 说行话
-procession	n.队伍，行列； 一列，一排； 列队行进  
-mostly	adv. 大概, 大部份, 主要  
-apparent	adj. 显然的；表面上的；似乎真实的  
 hasty	adj. 匆匆的, 轻率的, 急忙的  
-lung	n. 肺,呼吸器官  
 principle	n. 原则, 原理, 主义, 信念  
 notorious	adj. 臭名昭著的  
-mood	n. 心情, 情绪, 语气  
-insist	vt. 坚持,强调 vi. 坚决主张  
 contrary	adj. 相反的,截然不同的 adv. 相反(地) n. 反面,相反  
 lodge	n. 旅馆；门房；集会处；山林小屋 vt. 提出；寄存；借住；嵌入 vi. 寄宿；临时住宿  
-patient	adj. 有耐心的, 能忍耐的 n. 病人  
-dictionary	n. 词典, 字典, 辞典  
+
 
 ## 4
 previous	adj. 在...之前, 先, 前, 以前的  

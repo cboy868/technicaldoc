@@ -115,6 +115,22 @@ SECRET_KEY   = PelRoiGlDCKhyPG
 ```
 
 
+#### 配置完成后，切勿忘记在这里生成 '.ssh/authorized_keys' 文件,否则使用ssh连接时会报以下错误:
+http://gogs.abc.com/admin
+
+```
+Cloning into 'lichen'...
+The authenticity of host '[gogs.iutree.com]:10022 ([47.93.53.205]:10022)' can't be established.
+ECDSA key fingerprint is SHA256:L+9csagelv44D3GDT4EeoRULedvLFqQfDeJPCQQHI/4.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '[gogs.iutree.com]:10022,[47.93.53.205]:10022' (ECDSA) to the list of known hosts.
+git@gogs.iutree.com: Permission denied (publickey,keyboard-interactive).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
 
 ### 错误处理
 

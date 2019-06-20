@@ -41,6 +41,7 @@
 
 ## 其它
 1. [直言命题](#docs/other/zhiyan)
+1. [mac系统读写U盘](#docs/other/macU)
 
 
 

@@ -59,10 +59,43 @@ tough	adj. 强硬的, 艰苦的, 棘手的, 严厉的 adv. 以强硬的态度 n.
 indifferent	adj. 漠不关心的, 无重要性的, 中立的  
 dispute	n. 争论; 争吵 vi. 争论, 争执 vt. 争论; 质疑; 争夺; 抵抗  
 aluminum	n. 铝  
+dock	n. 码头,船坞,(造)修船厂,尾巴的骨肉部分,被告席 vt. 进港,(减)剪短,对接 vi. 进港,对接  
+thoughtful	adj. 深思的,体贴的  
+costume	n. 服装,剧装 vt. 提供服装, 为...设计服装 adj. 服装打扮的  
+thumb	n.拇指； （手套的）拇指部份 vi.翘起拇指请求搭乘（过路汽车），示意请求搭便车； 翻阅 vt.翻阅； 作搭车手势； 用拇指翻脏[翻坏]（书页等）  
+criticize	vt. 批评, 吹毛求疵, 非难 vi. 批评  
+portable	adj. 轻便的,手提式的 n. 手提打字机  
+feather	n. 羽毛,心情,种类,服饰 vt. 用羽毛装饰 vi. 长出羽毛  
+monster	n. 怪物，巨物，有威慑力的力量，恶人，超于常人的成功 adj. 巨大的，庞大的  
+hitherto	adv. 到目前为止, 迄今  
+shift	n. 交换,变化,移动,接班者 vt. 更替,移转,变声 vi. 改变,定责,更衣  
+numerous	adj. 为数众多的,许多  
+scramble	n. 攀爬,混乱,紧急起飞 vt. 胡乱抓取,混杂,扰乱 vi. 乱抓,争抢,杂乱地生长,紧急起飞  
+hop	n. 单脚跳,跳跃 vi. 单脚跳,跳跃,着手做某事 vt. 跳跃,跃过  
+phrase	n. 短语,习语,个人风格,乐句 vt. 措词表达,将(乐曲)分成乐句(来演奏)  
+previous	adj. 在...之前, 先, 前, 以前的  
+complaint	n. 抱怨  
+bloom	n. 花,钢块,兴旺 vt. 使...开花 vi. 开花,变得健康  
+parameter	n. 参数,参量,决定因素  
+bin	n. 箱柜 vt. 放入箱内 [计算机] DOS文件名: 二进制目标文件  
+league	n. 联盟,社团  
+rank	n. 队列,排名,等级,军衔,阶级 adj. 繁茂的,恶臭的,讨厌的 vt. 排列,归类于  
+prototype	n. 原型,雏形  
+cinema	n. 电影院,电影  
+mean	n.平均值, 平均数; 中部 adj. 低劣的, 卑贱的; 卑鄙的; 吝啬的 adj. 平均的, 中等的 v. 意味, 想要, 意欲  
+state	n. 州, 国, 情形 adj. 国家的, 州的, 正式的 vt. 说, 陈述, 声明, 规定  
+surface	n. 表面,平面, 外表 adj. 表面的,肤浅的 vt. 在某物上加表层, 使...成平面 vi. 浮到水面, 披露出来, 在表面工作  
+schedule	n. 时间表, 一览表, 计划 vt. 安排, 计划, 预定, 编制目录  
+leaf	n. 树叶,页,活动桌板,花瓣 vt. 翻页 vi. 长叶子,翻页浏览  
+passenger	n. 乘客,旅客  
+pack	n. 包裹,一群,一副,一帮,一群 vt. 包装,捆扎,塞满, 收拾行李， 佩戴 vi. 包装，（用某物）保存，保藏 ,塞进  
+displace	v. 移置, 替换  
+shoot	n. 射击,芽,发射 vt. 射击,发出,发芽 vi. 飞驰  
+lantern	n. 灯笼, [建筑学]天窗, 屋顶气窗  
+pin	n. 大头针,针,拴,(有别针的)徽章,小东西,(复数)腿 vt. 将...用针别住,钉住,压住 adj. 别针的  
+
 
 ## 1
-
-
 thrive	vi. 兴旺,繁荣  
 prime	adj. 最初的,首要的,最好的，典型的 n. 青春,壮年,全盛时期 vt. 事先指点,在（金属、木材等上）打底漆 vi. 变得首要  
 miracle	n. 奇迹  
@@ -75,11 +108,7 @@ cream	n.乳霜； 精英； 奶油色； 乳脂，奶油 vt.把…搅成糊状�
 meditate	v. 想, 考虑, 计划  
 proficiency	n. 熟练,精通  
 experience n.经历，经验，体验  
-
-
 ## 2
-
-
 comprise	vt. 包含,构成  
 scandal	n. 丑闻,中伤,反感,耻辱  
 reclaim	v. 开垦, 纠正, 收回  
@@ -108,7 +137,6 @@ grim	adj. 冷酷的；糟糕的；残忍的
 fuss	n. 大惊小怪,小题大作,强烈不满或争吵 vi. 无事自扰,焦急,对小事激动 vt. 扰乱,使焦躁  
 
 ## 3
-
 revelation	n. 揭露,泄露,发觉  
 brace	n. 支柱,曲柄,大括号 vt. 绷紧,顶住,（为困难或坏事）做准备,使更为坚固 vi. 振作精神,做好准备  
 outset	n. 开始, 开端  
@@ -121,43 +149,25 @@ notorious	adj. 臭名昭著的
 contrary	adj. 相反的,截然不同的 adv. 相反(地) n. 反面,相反  
 lodge	n. 旅馆；门房；集会处；山林小屋 vt. 提出；寄存；借住；嵌入 vi. 寄宿；临时住宿  
 
-
 ## 4
-previous	adj. 在...之前, 先, 前, 以前的  
-complaint	n. 抱怨  
 engagement	n. n. 预约，诺言，约会，婚约，交战，雇用，(机器零件等)啮合  
 sight	n. 景观, 视力, 眼界 vt. 看见, 观看 vi. 瞄准  
-phrase	n. 短语,习语,个人风格,乐句 vt. 措词表达,将(乐曲)分成乐句(来演奏)  
 outrage	n. 暴行,侮辱,愤怒 v. 凌辱,虐待,触犯  
 acquisition	n.获得； 购置物； 获得物； 收购  
 fluent	adj. 流利的, 流畅的  
 athlete	n. 运动员  
-hop	n. 单脚跳,跳跃 vi. 单脚跳,跳跃,着手做某事 vt. 跳跃,跃过  
 considerate	adj. 考虑周到的,体谅的  
 portrait	n. 肖像,画像 adj. (文件页面)竖的  
 curious	adj. 好奇的,古怪的  
 dorm	n. (集体)宿舍   
-scramble	n. 攀爬,混乱,紧急起飞 vt. 胡乱抓取,混杂,扰乱 vi. 乱抓,争抢,杂乱地生长,紧急起飞  
-dock	n. 码头,船坞,(造)修船厂,尾巴的骨肉部分,被告席 vt. 进港,(减)剪短,对接 vi. 进港,对接  
-thoughtful	adj. 深思的,体贴的  
 career	n. 生涯, 职业, 事业 vi. 猛冲, 飞跑 vt. 在...中急行  
 steel	n. 钢,钢制品,坚强 adj. 钢的,如钢铁般的,非常坚强的 vt. 包钢, 使坚硬, 使下定决心  
-costume	n. 服装,剧装 vt. 提供服装, 为...设计服装 adj. 服装打扮的  
-thumb	n.拇指； （手套的）拇指部份 vi.翘起拇指请求搭乘（过路汽车），示意请求搭便车； 翻阅 vt.翻阅； 作搭车手势； 用拇指翻脏[翻坏]（书页等）  
 expression	n. 表达,表示,表现,表情,措辞,词句  
-criticize	vt. 批评, 吹毛求疵, 非难 vi. 批评  
 thermal	adj. 热的,热量的,保热的 n. 上升的热气流  
-portable	adj. 轻便的,手提式的 n. 手提打字机  
 pamphlet	n. 小册子  
 profitable	adj. 有益的, 有用的  
 contemporary	n. 同时代的人；同时期的东西 adj. 当代的；同时代的；属于同一时期的  
 fake	n. 假货,欺骗,骗子 adj. 假的 vt. 伪造,伪装 vi. 假造  
-feather	n. 羽毛,心情,种类,服饰 vt. 用羽毛装饰 vi. 长出羽毛  
-monster	n. 怪物，巨物，有威慑力的力量，恶人，超于常人的成功 adj. 巨大的，庞大的  
-hitherto	adv. 到目前为止, 迄今  
-bloom	n. 花,钢块,兴旺 vt. 使...开花 vi. 开花,变得健康  
-shift	n. 交换,变化,移动,接班者 vt. 更替,移转,变声 vi. 改变,定责,更衣  
-numerous	adj. 为数众多的,许多  
 routine	n. 例行公事, 常规，无聊 adj. 常规的, 例行的，乏味的  
 
 ## 5
@@ -169,8 +179,6 @@ bullet	n. 子弹
 crane	n. 鹤, 起重机 v. 引颈, 伸长(脖子) vt. 伸长(脖子等)  
 repel	v. 逐退, 使...厌恶, 反驳  
 surgery	n. 外科,外科手术, 诊所  
-cinema	n. 电影院,电影  
-mean	n.平均值, 平均数; 中部 adj. 低劣的, 卑贱的; 卑鄙的; 吝啬的 adj. 平均的, 中等的 v. 意味, 想要, 意欲  
 comfortable	adj. 舒适的,充裕的  
 swarm	vi. 挤满；成群浮游；云集 n. 蜂群；一大群 vt. 挤满；爬  
 concern	vt. 涉及, 影响, 关心 n. 关心, 忧虑, 关心的事; 公司, 企业  
@@ -179,13 +187,11 @@ jam	n. 果酱,拥塞之物,堵塞, 窘境 vt. &vi. 挤,塞满,混杂
 impose	vi. 利用；欺骗；施加影响 vt. 强加；征税；以…欺骗   
 leap	n. 跳跃,剧增,急变 v. 跳跃,跃过,猛冲 adj. 闰年的  
 vain	adj. 徒然的, 虚荣的, 空虚的  
-state	n. 州, 国, 情形 adj. 国家的, 州的, 正式的 vt. 说, 陈述, 声明, 规定  
 march	n. (March)三月 n. 示威游行 vt. 使前进,使行军 vi. 行军,进军  
 highly	adj. 十分敬仰的 adv. 高度地,很,非常  
 pierce	v. 刺穿, 穿透, 洞悉  
 poster	n. 海报,招贴,脚夫 v. 贴海报于  
 retort	v. 反驳, 回嘴, 反击 n. 反驳, 顶嘴 n. 蒸馏器  
-surface	n. 表面,平面, 外表 adj. 表面的,肤浅的 vt. 在某物上加表层, 使...成平面 vi. 浮到水面, 披露出来, 在表面工作  
 strike	n. 罢工, 打击, 殴打 v. 打, 撞, 罢工, 划燃  
 hysterical	adj. 歇斯底里的, 异常兴奋的  
 shear	n. 修剪,剪下的东西,羊的一岁 vt. 剪掉, 割, 剥夺 vi. 修剪, 切割, 剥夺, 穿越  
@@ -195,7 +201,6 @@ tangle	n. 纠纷；混乱状态 vt. 使纠缠；处于混乱状态 vi. 缠结；
 disappoint	vt. &vi. 使...失望  
 extensive	adj. 广泛的,广阔的  
 organ	n. 风琴,器官,机构,机关报刊  
-schedule	n. 时间表, 一览表, 计划 vt. 安排, 计划, 预定, 编制目录  
 drift	n. 漂移,漂流物,观望,漂流,吹积物,趋势 vi. 漂移,漂流,吹积 vt. 使漂流,把...吹积  
 
 ## 6
@@ -217,35 +222,24 @@ sort	n. 种类,样子,态度 v. 分类,整理,排序 n.[计算机] DOS命令 : �
 refuse	n.废物,垃圾 vt. &vi. 拒绝 adj. 无用的  
 approach	n. 接近; 途径, 方法 v. 靠近, 接近, 动手处理  
 hurricane	n. 飓风,飓风般猛烈的东西 adj. 有防风罩的  
-confront	vt. 面临, 对抗, 遭遇  
 angel	n. 天使,天使般的人  
 bowel	n. 肠  
-pack	n. 包裹,一群,一副,一帮,一群 vt. 包装,捆扎,塞满, 收拾行李， 佩戴 vi. 包装，（用某物）保存，保藏 ,塞进  
-passenger	n. 乘客,旅客  
 tired	adj. 疲劳的,累的,厌烦的  
-leaf	n. 树叶,页,活动桌板,花瓣 vt. 翻页 vi. 长叶子,翻页浏览  
 episode	n. 插曲,插话,(作品的一段)情节,有趣的事件  
 derive	v. 得自, 起源, 引申于  
 tile	n. 砖瓦 vt. 铺以瓦,铺以瓷砖  
 arithmetic	n. 算术  
-shoot	n. 射击,芽,发射 vt. 射击,发出,发芽 vi. 飞驰  
 faculty	n.能力，才能； 全体教职员； <英>（大学的）专科，系； 特权，特许  
-lantern	n. 灯笼, [建筑学]天窗, 屋顶气窗  
-pin	n. 大头针,针,拴,(有别针的)徽章,小东西,(复数)腿 vt. 将...用针别住,钉住,压住 adj. 别针的  
 coordinate	n. 同等的人物; (色调, 图案, 样式等)配套服装 adj. 同等的, 等位的; (大学)男女分院制的 v. 协调, 整合; 使一致 [计算机] 坐标  
 theft	n. 偷窃  
-displace	v. 移置, 替换  
 rid	vt. 免除,清除,使...获自由  
 
 ## 7
-parameter	n. 参数,参量,决定因素  
-bin	n. 箱柜 vt. 放入箱内 [计算机] DOS文件名: 二进制目标文件  
+
+
 juice	n. 细胞液,内在本质,汽油,果汁,唾液, 体液 vt. 加液体,榨出...的汁液  
 irrespective	adj. 不顾的, 无关的, 没关系的  
-league	n. 联盟,社团  
-rank	n. 队列,排名,等级,军衔,阶级 adj. 繁茂的,恶臭的,讨厌的 vt. 排列,归类于  
 burden	n. 负担, 重载 v. 使负重, 装载, 烦扰  
-prototype	n. 原型,雏形  
 shower	n. 阵雨,淋浴 vi. 倾盆而下,淋浴 vt. 淋湿,下骤雨,使(大量东西)落在某人身上  
 sane	adj. 心智健全的, 理智的  
 entrepreneur	n. 企业家  

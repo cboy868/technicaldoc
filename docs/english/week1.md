@@ -93,11 +93,24 @@ displace	v. 移置, 替换
 shoot	n. 射击,芽,发射 vt. 射击,发出,发芽 vi. 飞驰  
 lantern	n. 灯笼, [建筑学]天窗, 屋顶气窗  
 pin	n. 大头针,针,拴,(有别针的)徽章,小东西,(复数)腿 vt. 将...用针别住,钉住,压住 adj. 别针的  
+thrive	vi. 兴旺,繁荣  
+prime	adj. 最初的,首要的,最好的，典型的 n. 青春,壮年,全盛时期 vt. 事先指点,在（金属、木材等上）打底漆 vi. 变得首要  
+reclaim	v. 开垦, 纠正, 收回  
+technician	n. 技术员,技师  
+glove	n. 手套 vt. 给...戴手套  
+sort	n. 种类,样子,态度 v. 分类,整理,排序 n.[计算机] DOS命令 : 在字符型文件中进行数据排序, 或者将DOS命令的输出进行排序   
+refuse	n.废物,垃圾 vt. &vi. 拒绝 adj. 无用的  
+tired	adj. 疲劳的,累的,厌烦的  
+tile	n. 砖瓦 vt. 铺以瓦,铺以瓷砖  
+theft	n. 偷窃  
+march	n. (March)三月 n. 示威游行 vt. 使前进,使行军 vi. 行军,进军  
+curious	adj. 好奇的,古怪的  
+outset	n. 开始, 开端  
+
 
 
 ## 1
-thrive	vi. 兴旺,繁荣  
-prime	adj. 最初的,首要的,最好的，典型的 n. 青春,壮年,全盛时期 vt. 事先指点,在（金属、木材等上）打底漆 vi. 变得首要  
+
 miracle	n. 奇迹  
 compulsory	adj. 被强制的,强迫的,义务的  
 reciprocal	adj. 相互的,互惠的,互补的 n. 相互, 互惠 [数］ 倒数  
@@ -108,13 +121,12 @@ cream	n.乳霜； 精英； 奶油色； 乳脂，奶油 vt.把…搅成糊状�
 meditate	v. 想, 考虑, 计划  
 proficiency	n. 熟练,精通  
 experience n.经历，经验，体验  
+
 ## 2
 comprise	vt. 包含,构成  
 scandal	n. 丑闻,中伤,反感,耻辱  
-reclaim	v. 开垦, 纠正, 收回  
 slam	n. 砰然声,猛然,猛烈的抨击 vt. 猛然关上,砰地关上,猛烈抨击 vi. 砰地关上,猛攻,猛烈抨击  
 stab	n. 刺,戳,刺伤的伤口,剧痛,尝试 vt. 刺伤,中伤 vi. 刺,扎  
-technician	n. 技术员,技师  
 eager	adj. 渴望的, 热切的  
 spread n.传播，伸展；adj.伸展的；vt. 传播，散布；展开；伸展；铺开 vi. 传播；伸展  
 widespread	adj. 分布(或散布)广的,普遍的  
@@ -130,7 +142,6 @@ conclusion	n. 结论
 pursue	v. 追捕, 追求, 继续从事  
 rigorous	adj. 严厉的,严酷的,严格的,细致的  
 accidental	adj. 意外的,偶然的,附属的 n. 偶然,不重要的东西,变调的临时符号  
-glove	n. 手套 vt. 给...戴手套  
 expectation	n. 期待,期望 v. 期待,前程 
 emphasize	v. 强调,着重 vt. 强调  
 grim	adj. 冷酷的；糟糕的；残忍的  
@@ -139,7 +150,6 @@ fuss	n. 大惊小怪,小题大作,强烈不满或争吵 vi. 无事自扰,焦急,
 ## 3
 revelation	n. 揭露,泄露,发觉  
 brace	n. 支柱,曲柄,大括号 vt. 绷紧,顶住,（为困难或坏事）做准备,使更为坚固 vi. 振作精神,做好准备  
-outset	n. 开始, 开端  
 shaft	n. 轴，杆状物，井状通道；井穴 vt. 亏待；苛待；欺骗  
 cricket	n. 板球,蟋蟀 vi. 打板球  
 consensus	n. 共识，一致，合意 n. [生理]交感  
@@ -158,7 +168,6 @@ fluent	adj. 流利的, 流畅的
 athlete	n. 运动员  
 considerate	adj. 考虑周到的,体谅的  
 portrait	n. 肖像,画像 adj. (文件页面)竖的  
-curious	adj. 好奇的,古怪的  
 dorm	n. (集体)宿舍   
 career	n. 生涯, 职业, 事业 vi. 猛冲, 飞跑 vt. 在...中急行  
 steel	n. 钢,钢制品,坚强 adj. 钢的,如钢铁般的,非常坚强的 vt. 包钢, 使坚硬, 使下定决心  
@@ -187,7 +196,6 @@ jam	n. 果酱,拥塞之物,堵塞, 窘境 vt. &vi. 挤,塞满,混杂
 impose	vi. 利用；欺骗；施加影响 vt. 强加；征税；以…欺骗   
 leap	n. 跳跃,剧增,急变 v. 跳跃,跃过,猛冲 adj. 闰年的  
 vain	adj. 徒然的, 虚荣的, 空虚的  
-march	n. (March)三月 n. 示威游行 vt. 使前进,使行军 vi. 行军,进军  
 highly	adj. 十分敬仰的 adv. 高度地,很,非常  
 pierce	v. 刺穿, 穿透, 洞悉  
 poster	n. 海报,招贴,脚夫 v. 贴海报于  
@@ -218,24 +226,18 @@ spirit	n. 精神
 peak	n. 山顶,顶点,帽舌 vi. 到达高点,消瘦 vt. 使到达顶峰,竖起 adj. 处于顶峰状态的  
 furthermore	adv. 而且, 此外  
 trail	n. 踪迹,小径,尾 vi. 拖,尾随,追踪,落后于 vt. 拖拽,追踪  
-sort	n. 种类,样子,态度 v. 分类,整理,排序 n.[计算机] DOS命令 : 在字符型文件中进行数据排序, 或者将DOS命令的输出进行排序   
-refuse	n.废物,垃圾 vt. &vi. 拒绝 adj. 无用的  
 approach	n. 接近; 途径, 方法 v. 靠近, 接近, 动手处理  
 hurricane	n. 飓风,飓风般猛烈的东西 adj. 有防风罩的  
 angel	n. 天使,天使般的人  
 bowel	n. 肠  
-tired	adj. 疲劳的,累的,厌烦的  
 episode	n. 插曲,插话,(作品的一段)情节,有趣的事件  
 derive	v. 得自, 起源, 引申于  
-tile	n. 砖瓦 vt. 铺以瓦,铺以瓷砖  
 arithmetic	n. 算术  
 faculty	n.能力，才能； 全体教职员； <英>（大学的）专科，系； 特权，特许  
 coordinate	n. 同等的人物; (色调, 图案, 样式等)配套服装 adj. 同等的, 等位的; (大学)男女分院制的 v. 协调, 整合; 使一致 [计算机] 坐标  
-theft	n. 偷窃  
 rid	vt. 免除,清除,使...获自由  
 
 ## 7
-
 
 juice	n. 细胞液,内在本质,汽油,果汁,唾液, 体液 vt. 加液体,榨出...的汁液  
 irrespective	adj. 不顾的, 无关的, 没关系的  

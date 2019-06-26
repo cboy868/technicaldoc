@@ -1,4 +1,6 @@
 # week2
+
+# 1
 chamber	n. 房间,会所,室 vt. 装入室中(枪膛) adj. 室内演奏的  
 marvelous	adj. 令人惊异的,了不起的,不平常的  
 commit	v. 委托(托付), 犯罪, 作...事, 承诺 [计算机] 委托  
@@ -36,6 +38,8 @@ sheet	n. 床单,张,片 vt. 盖上被单,遍布, 使成片状 vi. 成片落下�
 discrepancy	n. 相差,差异,差别  
 offer	n. 出价, 提议 vt. 提供, 出价; 贡献, 奉献 vi. 提议; 出现; 求婚  
 mind	n. 思想, 主意, 心意, 记忆, vt. 留心, 注意, 介意, 照顾 vi. 留心, 关心  
+
+# 2
 mode	n. 方式,样式,模式,风格,时兴 [音乐] 调式  
 powder	n. 粉,粉末,细雪,火药 vt. 洒粉于,使变成粉,重击 vi. 变成粉,涂粉  
 swift	adj. 快的,迅速的 adv. 快速地 n. 雨燕,线轴  
@@ -69,6 +73,8 @@ murmur	n. 低语,低声的抱怨,[医]心区杂音 v. 低语,低声抱怨
 vision	n. 视觉,先见之明,光景,视力,眼力,幻想，影像 vt. 幻想  
 acclaim	n. 喝彩, 欢呼, 赞同 v. 欢呼, 喝彩, 称赞  
 gun	n. 枪, 炮  
+
+# 3
 meaning	n. 意义,意思,含义 adj. 意味深长的  
 civilize	vt. 使开化，使文明  
 responsible	adj. 有责任的,负责的,责任重大的,应负责的  
@@ -91,14 +97,14 @@ symptom	n. 症状, 征兆
 journal	n. 日记, 杂志, 日报
 global	adj. 全球性的, 全局的
 radar	n. 雷达
-
-
 gesture	n. 手势,姿态 vt.& vi. 作手势表达  
 underground	adj. 地下的, 秘密的 adv. 在地下, 秘密地 n. 地下, 地铁, 地道, 秘密活动  
 hen	n. 母鸡  
 foreign	adj. 外国的,外交的,不相关的  
 bankrupt	adj. 破产的,贫穷的,道德败坏的,枯竭的 n. 破产者,无知的人 vt. 使破产  
 chin	n. 下巴,颏 vt. 做单杠 vi. 作引体向上, 聊天  
+
+# 4
 adventure	n. 冒险,奇遇 vt. 冒险,尝试 vi. 大胆进行,冒险  
 many	n. 许多人,许多 adj. 许多的 pron. 许多人或物  
 equal	adj. 相等的,平等的,胜任的 n. 对手,匹敌,同辈 vt. 等于,比得上  
@@ -132,6 +138,8 @@ tall	adj. 高的
 polite	adj. 有礼貌的, 客气的, 有教养的  
 holy	adj. 神圣的,圣洁的,令人敬仰的  
 eyebrow	n. 眉毛，[建]窗头线饰  
+
+# 5
 bible	n. 圣经, 有权威的书  
 kite	n. 风筝 vt.& vi. 用空头支票骗人,使上升  
 coke	n. 焦炭 vt. &vi. 炭化  
@@ -171,6 +179,7 @@ patent	n. 专利权,执照,专利品 adj. 专利的,显著的,新奇的 v. 取�
 orderly	adj. 有秩序的, 整齐的, 一丝不苟的, 和平的 adv. 有秩序地，有条理地，依次地 n. 勤务兵, （医院的）勤务工  
 tuition	n. 教诲,教学,学费  
 swell	n. 增大,隆起的部分, 波浪 adj. 优秀的, 时髦的 vi. 渐增, 膨胀, 积聚, 情感迸发 vt. 使情感迸发, 扩大, 使膨胀  
+# 6
 wet	adj. 湿的,雨天的 n. 潮气,雨天 vt.& vi. (使)弄湿  
 video	adj. 录像的 n. 录像(机) vt. 制作...的录像  
 candidate	n. 候选人, 求职者  
@@ -204,6 +213,8 @@ obscure	adj. 微暗的,难解的,不著名的,[语音学]轻音的 vt. 使...阴
 unity	n. 个体, 一致, 结合  
 gorgeous	adj. 华丽的, 灿烂的, 好极了  
 jaw	n. 颚,颌,说教,流言蜚语 vt. &vi. 喋喋不休,教训  
+
+# 7
 dirty	adj. 肮脏的,色情的,卑鄙的 adv. 卑鄙地 vt. 使...变脏 vi. 弄脏  
 forehead	n. 额,前额  
 elect	n. 当选人, 被选的人, 上帝的选民 adj. 被选的, 选出的 v. 选举, 选择  

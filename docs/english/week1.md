@@ -106,8 +106,12 @@ theft	n. 偷窃
 march	n. (March)三月 n. 示威游行 vt. 使前进,使行军 vi. 行军,进军  
 curious	adj. 好奇的,古怪的  
 outset	n. 开始, 开端  
-
-
+experience n.经历，经验，体验  
+fuss	n. 大惊小怪,小题大作,强烈不满或争吵 vi. 无事自扰,焦急,对小事激动 vt. 扰乱,使焦躁  
+pool	n. 水塘(池),游泳池,撞球 vi. 形成池塘 vt. 集中,积累  
+thermal	adj. 热的,热量的,保热的 n. 上升的热气流  
+portrait	n. 肖像,画像 adj. (文件页面)竖的  
+athlete	n. 运动员  
 
 ## 1
 
@@ -120,24 +124,22 @@ formulate	vt. 规划；用公式表示；明确地表达
 cream	n.乳霜； 精英； 奶油色； 乳脂，奶油 vt.把…搅成糊状（或奶油状）混合物； 彻底打败，狠揍  
 meditate	v. 想, 考虑, 计划  
 proficiency	n. 熟练,精通  
-experience n.经历，经验，体验  
+slam	n. 砰然声,猛然,猛烈的抨击 vt. 猛然关上,砰地关上,猛烈抨击 vi. 砰地关上,猛攻,猛烈抨击  
+stab	n. 刺,戳,刺伤的伤口,剧痛,尝试 vt. 刺伤,中伤 vi. 刺,扎  
+weave	n. 编法, 织法, 编织 v. 编织, 组合, 编排  
+smart	adj. 聪明的,时髦的,漂亮的,敏捷的,轻快的,整洁的 vi. 刺痛,难过,烦恼 n. 刺痛,苦恼 adv. 轻快地,,机灵地,整齐地,漂亮地; v. 感到剧烈刺痛，（因批评、失败等）难过，烦恼  
 
 ## 2
 comprise	vt. 包含,构成  
 scandal	n. 丑闻,中伤,反感,耻辱  
-slam	n. 砰然声,猛然,猛烈的抨击 vt. 猛然关上,砰地关上,猛烈抨击 vi. 砰地关上,猛攻,猛烈抨击  
-stab	n. 刺,戳,刺伤的伤口,剧痛,尝试 vt. 刺伤,中伤 vi. 刺,扎  
 eager	adj. 渴望的, 热切的  
 spread n.传播，伸展；adj.伸展的；vt. 传播，散布；展开；伸展；铺开 vi. 传播；伸展  
 widespread	adj. 分布(或散布)广的,普遍的  
 feat	n. 壮举,功绩,技艺表演  
-weave	n. 编法, 织法, 编织 v. 编织, 组合, 编排  
-smart	adj. 聪明的,时髦的,漂亮的,敏捷的,轻快的,整洁的 vi. 刺痛,难过,烦恼 n. 刺痛,苦恼 adv. 轻快地,,机灵地,整齐地,漂亮地; v. 感到剧烈刺痛，（因批评、失败等）难过，烦恼  
 spot	n. 污点, 地点, 斑点; 职位 adj. 当场的, 现实买卖的 v. 使沾上污点, 认出, 用灯光照射  
 participant	adj. 参与的 n. 参加者,参与者  
 considerable	adj. 相当大的,可观的,重要的  
 breed	n. 品种,族类 vt. 养育,繁殖,引起 vi. 繁殖  
-pool	n. 水塘(池),游泳池,撞球 vi. 形成池塘 vt. 集中,积累  
 conclusion	n. 结论  
 pursue	v. 追捕, 追求, 继续从事  
 rigorous	adj. 严厉的,严酷的,严格的,细致的  
@@ -145,7 +147,7 @@ accidental	adj. 意外的,偶然的,附属的 n. 偶然,不重要的东西,变�
 expectation	n. 期待,期望 v. 期待,前程 
 emphasize	v. 强调,着重 vt. 强调  
 grim	adj. 冷酷的；糟糕的；残忍的  
-fuss	n. 大惊小怪,小题大作,强烈不满或争吵 vi. 无事自扰,焦急,对小事激动 vt. 扰乱,使焦躁  
+
 
 ## 3
 revelation	n. 揭露,泄露,发觉  
@@ -165,14 +167,14 @@ sight	n. 景观, 视力, 眼界 vt. 看见, 观看 vi. 瞄准
 outrage	n. 暴行,侮辱,愤怒 v. 凌辱,虐待,触犯  
 acquisition	n.获得； 购置物； 获得物； 收购  
 fluent	adj. 流利的, 流畅的  
-athlete	n. 运动员  
+
 considerate	adj. 考虑周到的,体谅的  
-portrait	n. 肖像,画像 adj. (文件页面)竖的  
+
 dorm	n. (集体)宿舍   
 career	n. 生涯, 职业, 事业 vi. 猛冲, 飞跑 vt. 在...中急行  
 steel	n. 钢,钢制品,坚强 adj. 钢的,如钢铁般的,非常坚强的 vt. 包钢, 使坚硬, 使下定决心  
 expression	n. 表达,表示,表现,表情,措辞,词句  
-thermal	adj. 热的,热量的,保热的 n. 上升的热气流  
+
 pamphlet	n. 小册子  
 profitable	adj. 有益的, 有用的  
 contemporary	n. 同时代的人；同时期的东西 adj. 当代的；同时代的；属于同一时期的  

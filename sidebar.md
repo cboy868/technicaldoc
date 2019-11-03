@@ -30,7 +30,7 @@
 1. [第二周](#docs/english/week2)
 
 ## 往年试题
-1. [2013]真题(#docs/english/exam/2013)
+1. [2013真题](#docs/english/exam/2013)
 
 
 ## 正康英语
